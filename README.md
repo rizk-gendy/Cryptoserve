@@ -19,7 +19,8 @@ Link
 
 ## Project Image :
 
-Image
+
+![screencapture-localhost-3000-2022-03-23-21_23_55](https://user-images.githubusercontent.com/80922036/159779873-fe6ad503-18dc-4aca-b8b6-5c80d9662a7e.png)
 
 
 
@@ -85,7 +86,7 @@ Image
 
 ## Project Files
 
-```bash
+
 ├── README.md - This file.
 ├── package.lock.json        
 ├── .gitigore 
@@ -112,7 +113,7 @@ Image
        ├── cryptoApi.js   
        └── cryptoNewsApi.js      
     
-```bash     
+   
     
     
     
