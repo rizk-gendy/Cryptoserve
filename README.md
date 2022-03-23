@@ -80,47 +80,6 @@ Link
 
 
 
-
-
-
-
-## Project Files
-
-
-├── README.md - This file.
-├── package.lock.json        
-├── .gitigore 
-├── Node_modules            # all app packages
-├── package.json            # npm package manager file.
-├── public           
-│   └── index.html          # The file include the HTML of the App
-└── src
-    ├── App.css             # The file include  CSS Styles for the App
-    ├── index.js            # the root of your app. 
-    ├── components          # The Folder includes all appcomponents
-    │   ├── Cryptocurrencies.jsx
-    │   ├── CryptoDetails.jsx
-    │   ├── Exchanges.jsx
-    │   ├── Homepage.jsx
-    │   ├── index.js
-    │   ├── LineChart.jsx
-    │   ├── Loader.jsx
-    │   ├── Navbar.jsx
-    │   └── News.jsx
-    ├── images              # Folder including the App images     
-    │   └── cryptocurrency.png       
-    └── services            # Folder including the App API's Endpoints
-       ├── cryptoApi.js   
-       └── cryptoNewsApi.js      
-    
-   
-    
-    
-    
-    
-    
-  
-
 ## Languages and Technologies  Used in the Project :
 
 1- React , Redux  
@@ -154,23 +113,38 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
+## Project Files
 
+```bash
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+├── README.md - This file.
+├── package.lock.json        
+├── .gitigore 
+├── Node_modules            # all app packages
+├── package.json            # npm package manager file.
+├── public           
+│   └── index.html          # The file include the HTML of the App
+└── src
+    ├── App.css             # The file include  CSS Styles for the App
+    ├── index.js            # the root of your app. 
+    ├── components          # The Folder includes all appcomponents
+    │   ├── Cryptocurrencies.jsx
+    │   ├── CryptoDetails.jsx
+    │   ├── Exchanges.jsx
+    │   ├── Homepage.jsx
+    │   ├── index.js
+    │   ├── LineChart.jsx
+    │   ├── Loader.jsx
+    │   ├── Navbar.jsx
+    │   └── News.jsx
+    ├── images              # Folder including the App images     
+    │   └── cryptocurrency.png       
+    └── services            # Folder including the App API's Endpoints
+       ├── cryptoApi.js   
+       └── cryptoNewsApi.js      
+    
+   ```bash
+    
+    
+    
 
